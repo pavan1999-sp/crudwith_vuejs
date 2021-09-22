@@ -1,0 +1,28 @@
+{
+  "userdata": [
+    {
+      "id": 1,
+      "u_idd": 1,
+      "u_name": "pavan sai",
+      "u_sal": 2000
+    },
+    {
+      "u_id": "2",
+      "u_name": "prasad",
+      "u_sal": "43000",
+      "id": 2
+    },
+    {
+      "u_id": "2",
+      "u_name": "prasad",
+      "u_sal": "43000",
+      "id": 3
+    },
+    {
+      "u_id": "4",
+      "u_name": "varun",
+      "u_sal": "23000",
+      "id": 4
+    }
+  ]
+}
